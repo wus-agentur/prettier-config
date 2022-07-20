@@ -1,0 +1,9 @@
+{
+  "name": "@wus-agentur/prettier-config",
+  "version": "1.0.0",
+  "description": "W&S Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:wus-agentur/prettier-config.git",
+  "author": "Christian Kehres <c.kehres@wus.de>",
+  "license": "MIT"
+}
